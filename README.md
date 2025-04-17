@@ -88,9 +88,7 @@ Tools & Infra:   GitHub, Colab, Docker, GDAL, VS Code
   <br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=GTVSOFT&theme=chartreuse-dark" width="100%" />
 </p>
-
 ---
-
 ## ✨ Quote to Live By
 
 > *"The fusion of Earth observation and machine learning is rewriting our climate future—one pixel at a time."*
