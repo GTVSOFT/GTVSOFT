@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌿 Passionate about **Earth Observation**, **Climate Resilience**, and **Sustainable Innovation**
 - 🛰️ Skilled in **Remote Sensing, Python, GEE, ArcGIS/QGIS, TensorFlow**
 - 📊 Creating ML models to analyze **climate data, marine ecosystems, oil spills**, and **emissions**
-- 📫 Email me: **geosoftconsultingltd@gmail.com** | 🔗 [GitHub](https://github.com/GTVSOFT)
+- 📫 Email me: **contactmeremutech@gmail.com** | 🔗 [GitHub](https://github.com/GTVSOFT)
 - 🛠️ Currently building: *Vegetation Index Toolkit* and *Blue Economy GeoML Platform*
 
 ---
