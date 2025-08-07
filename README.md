@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GTVSOFT/GTVSOFT/main/banner.png" alt="Ebiere Amom Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GTVSOFT/GTVSOFT/main/banner.png" alt="Amos Meremu Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Ebiere Amom
+# 👋 Hi, I'm Amos Meremu
 ### 🧠 Data Scientist | 🌍 Climate Tech Analyst | 📡 Geospatial & AI for Sustainability
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
