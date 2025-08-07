@@ -86,7 +86,7 @@ Tools & Infra:   GitHub, Colab, Docker, GDAL, VS Code
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GTVSOFT&theme=onedark&no-frame=true&row=1&column=7" />
   <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=GTVSOFT&theme=chartreuse-dark" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=GTVSOFT&theme=chartreuse-dark" width="2%" />
 </p>
 ---
 ## ✨ Quote to Live By
